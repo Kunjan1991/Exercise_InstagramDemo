@@ -60,7 +60,8 @@ namespace InstagramDemo.View
         {
             InitializeComponent();
             GC.Collect();
-            GC.WaitForPendingFinalizers();          
+            GC.WaitForPendingFinalizers();
+          
             progressOverlay.Visibility = Visibility.Visible;           
             _httpClient = new HttpClient();
             if ((!(IsolatedStorageSettings.ApplicationSettings.Contains("InstagramLogIn")) || (IsolatedStorageSettings.ApplicationSettings.Contains("InstagramLogIn") && (bool)IsolatedStorageSettings.ApplicationSettings["InstagramLogIn"] == false)))
@@ -68,7 +69,8 @@ namespace InstagramDemo.View
                 if (NetworkInterface.GetIsNetworkAvailable())
                 {
                     progressOverlay.Hide();
-                    progressOverlay.Visibility = Visibility.Collapsed;
+                    progressOverlay.Visibility = Visibility.Collapsed;                   
+
                     loginBrowserControl.Navigate(new Uri("https://instagram.com/oauth/authorize/?client_id=" + InstagramSettings.consumerKey + "&redirect_uri=" + InstagramSettings.redirect_Uri + "&response_type=token&scope=basic+likes+comments+relationships"));
                     Logger.WriteLine("Instagram login");                    
                 }
@@ -140,14 +142,7 @@ namespace InstagramDemo.View
             GC.Collect();
             GC.WaitForPendingFinalizers();
 
-        }
-
-        private void Restaurantslist_webClinet_DownloadStringCompleted(object sender, DownloadStringCompletedEventArgs e)
-        {
-            if (e != null && e.Error != null)
-            {
-            }
-        }
+        }       
         #endregion        
         
         protected override void OnBackKeyPress(System.ComponentModel.CancelEventArgs e)

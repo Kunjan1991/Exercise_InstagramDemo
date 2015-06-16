@@ -53,10 +53,10 @@
         </Grid>
 
         <Code4funToolkit:ProgressOverlay  Margin="0,0,0,0" Name="progressOverlay1"   Visibility="Collapsed" Grid.RowSpan="5">
-            <StackPanel >
+            <StackPanel>
                 <ProgressBar Grid.RowSpan="4" Margin="0,2,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FlowDirection="LeftToRight" IsIndeterminate="True" Visibility="Visible" Foreground="White"  Height="10" Width="480" x:Name="standardProgressBar" />
                 <TextBlock Text="Loading..." FontSize="21" FontWeight="Normal" Foreground="White" HorizontalAlignment="Center"/>
-            </StackPanel >
+            </StackPanel>
         </Code4funToolkit:ProgressOverlay>
 
         <Code4funToolkit:ProgressOverlay  Grid.RowSpan="6" Name="progressOverlay"  Visibility="Collapsed">

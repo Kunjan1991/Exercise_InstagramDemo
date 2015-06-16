@@ -21,21 +21,7 @@ namespace InstagramDemo.Data
                    Caption = AppResources.Alert,
                    Message = AppResources.NetworkErrorMsg,                   
                    LeftButtonContent = AppResources.LeftBtnContent,
-               };
-               //message.Dismissed += (sender, args) =>
-               //{
-               //    ((CustomMessageBox)sender).Dismissing += (o, eventArgs) => eventArgs.Cancel = true;
-               //    if (args.Result == CustomMessageBoxResult.LeftButton)
-               //    {                       
-               //        CallSetting();
-               //    }
-               //    else if (args.Result == CustomMessageBoxResult.RightButton)
-               //    {
-               //        App.OnOff = false;
-
-               //        Application.Current.Terminate();
-               //    }
-               //};
+               };               
                message.Show();
            });
        }
@@ -48,21 +34,7 @@ namespace InstagramDemo.Data
                       Caption = AppResources.Alert,
                       Message = AppResources.UnknownErrorMsg,
                       LeftButtonContent = AppResources.LeftBtnContent,
-                  };
-                  //message.Dismissed += (sender, args) =>
-                  //{
-                  //    ((CustomMessageBox)sender).Dismissing += (o, eventArgs) => eventArgs.Cancel = true;
-                  //    if (args.Result == CustomMessageBoxResult.LeftButton)
-                  //    {                       
-                  //        CallSetting();
-                  //    }
-                  //    else if (args.Result == CustomMessageBoxResult.RightButton)
-                  //    {
-                  //        App.OnOff = false;
-
-                  //        Application.Current.Terminate();
-                  //    }
-                  //};
+                  };                  
                   message.Show();
               });
        }
@@ -87,8 +59,7 @@ namespace InstagramDemo.Data
                                posttime = seconds.ToString() + " seconds ago";
                            }
                            else
-                               posttime = "";
-                           //posttime = ((int)ty.Subtract(time).TotalSeconds).ToString() + " seconds ago";                           
+                               posttime = "";                                                
                        }
                        else
                        {

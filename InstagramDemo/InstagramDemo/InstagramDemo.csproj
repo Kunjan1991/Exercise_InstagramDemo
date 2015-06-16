@@ -216,10 +216,6 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="PhoneNameResolver, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
-    <Reference Include="SilverlightSerializer.WP71, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\WP7Contrib.Caching.1.0.0.16\lib\sl4-WindowsPhone71\SilverlightSerializer.WP71.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="SlideView.Library, Version=1.4.2.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\SlideView.1.4.2\lib\wp8\SlideView.Library.dll</HintPath>
       <Private>True</Private>

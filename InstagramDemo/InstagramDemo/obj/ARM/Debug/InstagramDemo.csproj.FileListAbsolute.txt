@@ -194,7 +194,6 @@ C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDem
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
-C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\InstagramDemo.csprojResolveAssemblyReference.cache
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\App.g.cs
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\MainPage.g.cs
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\View\InstagramPage.g.cs
@@ -204,3 +203,4 @@ C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDem
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\InstagramDemo.dll
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\InstagramDemo.pdb
 C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\XapCacheFile.xml
+C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\InstagramDemo.csprojResolveAssemblyReference.cache

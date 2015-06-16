@@ -17,7 +17,7 @@ namespace InstagramDemo.Data
     public class MainUtil
     {       
         public static Dictionary<string, string> GetQueryParameters(string response)
-        {
+        { 
             Dictionary<string, string> nameValueCollection = new Dictionary<string, string>();
             string[] items = response.Split('&');
 

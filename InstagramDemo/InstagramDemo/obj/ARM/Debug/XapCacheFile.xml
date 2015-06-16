@@ -1,5 +1,5 @@
-﻿<xapCache source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\InstagramDemo_Debug_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="6/12/2015 4:52:32 PM">
-  <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\InstagramDemo.dll" archivePath="InstagramDemo.dll" lastWriteTime="6/12/2015 3:57:12 PM" />
+﻿<xapCache source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\InstagramDemo_Debug_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="6/15/2015 5:10:57 PM">
+  <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\obj\ARM\Debug\InstagramDemo.dll" archivePath="InstagramDemo.dll" lastWriteTime="6/15/2015 5:10:46 PM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="6/12/2015 8:37:25 AM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="6/12/2015 8:37:25 AM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="6/12/2015 8:37:25 AM" />
@@ -15,7 +15,7 @@
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="6/12/2015 8:46:04 AM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="6/12/2015 8:46:04 AM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="6/12/2015 8:46:04 AM" />
-  <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/12/2015 3:57:17 PM" />
+  <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/15/2015 3:29:39 PM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/12/2015 8:37:25 AM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/12/2015 8:37:25 AM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Libs\CaledosLab.Portable.Logging.dll" archivePath="CaledosLab.Portable.Logging.dll" lastWriteTime="12/29/2014 5:51:54 AM" />
@@ -46,5 +46,5 @@
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Primitives.xml" archivePath="System.Net.Http.Primitives.xml" lastWriteTime="6/12/2015 8:47:47 AM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\packages\Rx-Main.1.0.10621\lib\SL3-WP\System.Reactive.xml" archivePath="System.Reactive.xml" lastWriteTime="6/12/2015 8:49:01 AM" />
   <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\packages\Rx-Xaml.1.0.10621\lib\SL3-WP\System.Reactive.Windows.Threading.xml" archivePath="System.Reactive.Windows.Threading.xml" lastWriteTime="6/12/2015 8:49:02 AM" />
-  <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="6/12/2015 3:57:18 PM" />
+  <file source="C:\Users\ymoc\Documents\GitHub\Exercise_InstagramDemo\InstagramDemo\InstagramDemo\Bin\ARM\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="6/15/2015 3:29:39 PM" />
 </xapCache>
